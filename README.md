@@ -1,6 +1,6 @@
 ![Logo](assets/GeoSuiteLogo.png)
 # Geo Suite Information
-The purpose of this document is to explain information about GeoSuite not present on my resume or within the site.
+The purpose of this document is to explain information about GeoSuite not present on my resume or within the site. Note that I cannot make the GeoSuite repository public, as there is sensitive AWS information on it.
 
 ## Motivation
 A few years ago, I came to the realization that I knew basically nothing about geography. When reading the news, I had heard of many of these places, but knew nothing about them nor where they actually were on a map. Once I started learning more about the subject, I fell in love with it, and started writing simple games. Most of the early iterations were, quite frankly, terrible, but eventually I came up with something that I am proud of -- GeoSuite.

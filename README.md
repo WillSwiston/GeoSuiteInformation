@@ -1,3 +1,4 @@
+![Logo](assets/GeoSuiteLogo.png)
 # Geo Suite Information
 The purpose of this document is to explain information about GeoSuite not present on my resume or within the site.
 
@@ -10,7 +11,7 @@ This is hosted on a CloudFront distribution in AWS, which reads from an S3 bucke
 
 I also developed a few tools to help with development. Firstly, I wrote a CSS checker to remove unused CSS classes from files. This is to reduce the bundle size and therefore the time to load as much as possible.
 
-I also automated translation of sentences into different languages using Selenium. One of the games shows the user a sentence in a different language and asks them to guess the language. Because there are so many possible languages, doing each individually would take forever. Thankfully, by using Selenium and Google Translate, I was able to create a workflow which does not take much time, and runs automatically.
+I also automated translation of sentences into different languages using Selenium. One of the games shows the user a sentence in a different language and asks them to guess the language. Because there are so many possible languages, doing each individually would take forever. Thankfully, by using Selenium and Google Translate, I was able to create a workflow which does not take much time, and runs automatically. I have included the file in this repository in `scripts/Translate.py`
 
 The last tool generates the minimum distance between every country to each other. This is a large script which I go in depth into later. There is a preprocessing script which prunes data and makes it formatted correctly, as well as the actual distance generation script.
 All scripts for the website are built using Python3.
